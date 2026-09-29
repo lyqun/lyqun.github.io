@@ -301,6 +301,12 @@ img {
     font-style: italic;
 }
 
+.pub-note {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin-top: 2px;
+}
+
 .pub-links {
     display: flex;
     gap: var(--spacing-sm);
